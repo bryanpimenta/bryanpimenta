@@ -1,5 +1,6 @@
-## Oii, eu sou o Bryan
-<p> Sou um <strong>Desenvolvedor de Software</strong> em construção pela <a href="https://github.com/betrybe">Trybe<a/>.</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo+ao+meu+reposit%C3%B3rio+GitHub!)](https://git.io/typing-svg)
+
+##
 
 [![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanpimenta&show_icons=true&theme=calm_pink)](https://github.com/bryanpimenta/github-readme-stats)
 
@@ -31,7 +32,8 @@
 <img width="40px" src="https://api.iconify.design/logos/jwt-icon.svg" title = "JWT LIBRARY"/>
 </div>
 
- ##
+##
+ 
 <div> 
   <a href = "mailto:bryanpimenta30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bryan-pimenta-b50154272" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
