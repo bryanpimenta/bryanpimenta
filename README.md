@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem-vindo+ao+meu+reposit%C3%B3rio+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e07a5f&width=435&lines=Bem-vindo+ao+meu+reposit%C3%B3rio+GitHub!)](https://git.io/typing-svg)
 
 ##
 
-<div style="width: 500px;">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryanpimenta&show_icons=true&locale=en&theme=calm_pink" alt="bryanpimenta"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanpimenta&show_icons=true&locale=en&layout=compact&theme=calm_pink" alt="bryanpimenta"/>
 </div>
