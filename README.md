@@ -8,7 +8,7 @@
 </div>
 
 ##
-<h3 align="left">🖥️ Tecnologias e Ferramentas:</h3>
+<h3 align="left">Linguagens e Ferramentas:</h3>
 <div style="display: flex; flex-direction: row;">
   <img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" title = "HTML5"/>
   <img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title = "CSS3"/>
