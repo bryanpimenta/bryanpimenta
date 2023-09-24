@@ -1,5 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e07a5f&width=435&lines=Bem-vindo+ao+meu+reposit%C3%B3rio+GitHub!)](https://git.io/typing-svg)
 
+<div style="display: flex; flex-direction: column; flex-wrap: wrap;">
+  <h3 align="left">Para uma introdução, no momento estou</h3>
+  <p>💻 Focando em Desenvolvido web</p>
+  <p>📚 Estudando SOLID e POO para melhorar a qualidade do meu código</p>
+  <p>🎮 E hobbie são jogos online, desenhos digitais e construção de modelos 3D</p>
+</div>
+
 ##
 
 <div>
@@ -8,7 +15,7 @@
 </div>
 
 ##
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<h3 align="left">Linguagens e Ferramentas</h3>
 <div style="display: flex; flex-direction: row;">
   <img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" title = "HTML5"/>
   <img width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title = "CSS3"/>
@@ -38,6 +45,7 @@
 ##
  
 <div> 
+  <h3 align="left">Encontre e entre em contato comigo em</h3>
   <a href = "mailto:bryanpimenta30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bryan-pimenta-b50154272" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/bryan_pimenta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
