@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e07a5f&width=435&lines=Bem-vindo+ao+meu+reposit%C3%B3rio+GitHub!)](https://git.io/typing-svg)
 
+##
 <div style="display: flex; flex-direction: column; flex-wrap: wrap;">
   <h3 align="left">Para uma introdução, no momento estou</h3>
   <p>💻 Focando em Desenvolvido web</p>
@@ -7,12 +8,13 @@
   <p>🎮 E meus hobbies são jogos online, desenhos digitais e construção de modelos 3D</p>
 </div>
 
-##
 
+##
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryanpimenta&show_icons=true&locale=en&theme=calm_pink" alt="bryanpimenta"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanpimenta&show_icons=true&locale=en&layout=compact&theme=calm_pink" alt="bryanpimenta"/>
 </div>
+
 
 ##
 <h3 align="left">Linguagens e Ferramentas</h3>
@@ -42,11 +44,13 @@
   <img width="40px" src="https://api.iconify.design/logos/jwt-icon.svg" title = "JWT LIBRARY"/>
 </div>
 
+
 ##
- 
 <div> 
-  <h3 align="left">Encontre e entre em contato comigo em</h3>
+  <h3 align="left">Entre em contato comigo</h3>
   <a href = "mailto:bryanpimenta30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bryan-pimenta-b50154272" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/bryan_pimenta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+
