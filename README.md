@@ -5,6 +5,7 @@
   <h3 align="left">Para uma introdução, no momento estou</h3>
   <p>💻 Focando em Desenvolvido web</p>
   <p>📚 Estudando SOLID e POO para melhorar a qualidade do meu código</p>
+  <p>📚 Iniciando os estudos de C# também</p>
   <p>🎮 E meus hobbies são jogos online, desenhos digitais e construção de modelos 3D</p>
 </div>
 
