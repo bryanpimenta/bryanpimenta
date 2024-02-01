@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e07a5f&width=435&lines=Bem-vindo+ao+meu+reposit%C3%B3rio+GitHub!)](https://git.io/typing-svg)
-### Sobre mim
+
+##
 <div style="display: flex; flex-direction: column; flex-wrap: wrap;">
   <h3 align="left">Para uma introdução, no momento estou</h3>
   <p>💻 Focando em Desenvolvido Web</p>
