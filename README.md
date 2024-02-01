@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e07a5f&width=435&lines=Bem-vindo+ao+meu+reposit%C3%B3rio+GitHub!)](https://git.io/typing-svg)
-
+Ultima att: 01/02/2024
 ##
 <div style="display: flex; flex-direction: column; flex-wrap: wrap;">
   <h3 align="left">Para uma introdução, no momento estou</h3>
-  <p>💻 Focando em Desenvolvido web</p>
+  <p>💻 Focando em Desenvolvido Web</p>
   <p>📚 Estudando SOLID e POO para melhorar a qualidade do meu código</p>
-  <p>📚 Iniciando os estudos de C#</p>
-  <p>📚 Estudando WPF .NET para criação de app desktop</p>
-  <p>🎮 E meus hobbies são jogos online, desenhos digitais e construção de modelos 3D</p>
+  <p>📚 Explorando o potencial do C#</p>
+  <p>📚 Estudando para o ENEM com o foco em Ciência da Computação - 2025</p>
+  <p>🎮 Meus hobbies são jogos online, desenhos digitais e correr ao ar livre</p>
 </div>
 
 
@@ -49,7 +49,7 @@
 
 ##
 <div> 
-  <h3 align="left">Entre em contato comigo</h3>
+  <h3 align="left">Não exite caso queira trocar uma ideia, só mandar uma mensagem pelas minhas redes</h3>
   <a href = "mailto:bryanpimenta30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bryan-pimenta-b50154272" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/bryan_pimenta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
