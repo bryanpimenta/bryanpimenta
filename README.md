@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e07a5f&width=435&lines=Bem-vindo+ao+meu+reposit%C3%B3rio+GitHub!)](https://git.io/typing-svg)
-Ultima att: 01/02/2024
-##
+### Sobre mim
 <div style="display: flex; flex-direction: column; flex-wrap: wrap;">
   <h3 align="left">Para uma introdução, no momento estou</h3>
   <p>💻 Focando em Desenvolvido Web</p>
@@ -8,6 +7,7 @@ Ultima att: 01/02/2024
   <p>📚 Explorando o potencial do C#</p>
   <p>📚 Estudando para o ENEM com o foco em Ciência da Computação - 2025</p>
   <p>🎮 Meus hobbies são jogos online, desenhos digitais e correr ao ar livre</p>
+  Última atualização: 01/02/2024
 </div>
 
 
