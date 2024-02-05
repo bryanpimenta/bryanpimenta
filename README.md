@@ -3,12 +3,14 @@
 ##
 <div style="display: flex; flex-direction: column; flex-wrap: wrap;">
   <h3 align="left">De introdução, no momento estou</h3>
+  
   <p>💻 Focando em Desenvolvido Web</p>
   <p>📚 Estudando SOLID e POO para melhorar a qualidade do meu código</p>
   <p>📚 Explorando o potencial do C#</p>
   <p>📚 Estudando para o ENEM com o foco em Ciência da Computação - 2025</p>
   <p>🎮 Meus hobbies são jogos online, desenhos digitais e correr ao ar livre</p>
-  Última atualização: 01/02/2024
+  
+  <p>⏱<i> Última atualização: 01/02/2024</i></p>
 </div>
 
 
@@ -16,6 +18,12 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryanpimenta&show_icons=true&locale=en&theme=calm_pink" alt="bryanpimenta"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanpimenta&show_icons=true&locale=en&layout=compact&theme=calm_pink" alt="bryanpimenta"/>
+</div>
+
+##
+<div>
+  <h3 align="left">Portfólio</h3>
+  <p>Você pode acessar meu portfólio clicando aqui: <a href="https://bryanpimenta.github.io/portfolio/">https://bryanpimenta.github.io/portfolio/</a></p>
 </div>
 
 
