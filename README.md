@@ -23,7 +23,7 @@
 ##
 <div>
   <h3 align="left">Portfólio</h3>
-  <p>Você pode acessar meu portfólio clicando <a href="https://bryanpimenta.github.io/portfolio/">aqui</a></p>
+  <p>Você pode acessar meu portfólio clicando <a href="https://bryanpimenta.github.io/portfolio/" target="_blank">aqui</a></p>
 </div>
 
 
@@ -59,9 +59,9 @@
 ##
 <div> 
   <h3 align="left">Não hesite caso queira trocar uma ideia, só mandar mensagem pelas minhas redes</h3>
-  <a href = "mailto:bryanpimenta30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bryan-pimenta-b50154272" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/bryan_pimenta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bryanpimenta30@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/bryan-pimenta-b50154272" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/bryan_pimenta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 
