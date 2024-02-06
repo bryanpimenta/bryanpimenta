@@ -23,7 +23,7 @@
 ##
 <div>
   <h3 align="left">Portfólio</h3>
-  <p>Você pode acessar meu portfólio clicando aqui: <a href="https://bryanpimenta.github.io/portfolio/">https://bryanpimenta.github.io/portfolio/</a></p>
+  <p>Você pode acessar meu portfólio clicando <a href="https://bryanpimenta.github.io/portfolio/">aqui</a></p>
 </div>
 
 
