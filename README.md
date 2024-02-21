@@ -10,7 +10,7 @@
   <p>📚 Estudando para o ENEM com o foco em Ciência da Computação - 2025</p>
   <p>🎮 Meus hobbies são jogos online, desenhos digitais e correr ao ar livre</p>
   
-  <p>⏱<i> Última atualização: 01/02/2024</i></p>
+  <p>⏱<i> Última atualização: 21/02/2024</i></p>
 </div>
 
 
