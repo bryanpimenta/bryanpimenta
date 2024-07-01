@@ -5,12 +5,12 @@
   <h3 align="left">De introdução, no momento estou</h3>
   
   <p>💻 Focando em Desenvolvido Web</p>
+  <p>💻 Dísponivel para trabalho Remoto/Hibrido região de BH</p>
   <p>📚 Estudando SOLID e POO para melhorar a qualidade do meu código</p>
-  <p>📚 Explorando o potencial do C#</p>
-  <p>📚 Estudando para o ENEM com o foco em Ciência da Computação - 2025</p>
+  <p>📚 Estudando para o ENEM com o foco em Ciência da Computação - 2025 UFMG</p>
   <p>🎮 Meus hobbies são jogos online, desenhos digitais e correr ao ar livre</p>
   
-  <p>⏱<i> Última atualização: 21/02/2024</i></p>
+  <p>⏱<i> Última atualização: 01/07/2024</i></p>
 </div>
 
 
@@ -35,6 +35,8 @@
   <img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" title = "JAVASCRIPT"/>
   <img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" title = "TYPESCRIPT"/>
   <img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Dark.svg" title = "NODE JS"/>
+  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" title = "CSHARP"/>
+  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" title = ".NET CORE" />
   <img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg" title = "REACT"/>
   <img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Light.svg" title = "MYSQL"/>
   <img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Light.svg" title = "EXPRESS"/>
