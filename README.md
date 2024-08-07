@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e07a5f&width=435&lines=Bem-vindo+ao+meu+reposit%C3%B3rio+GitHub!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AC3DC&background=23FF3A00&width=435&lines=Bem-vindo+ao+meu+reposit%C3%B3rio+GitHub!" alt="Typing SVG" /></a>
 
 ##
 <div style="display: flex; flex-direction: column; flex-wrap: wrap;">
