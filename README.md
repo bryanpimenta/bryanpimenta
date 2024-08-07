@@ -7,10 +7,11 @@
   <p>💻 Focando em Desenvolvido Web</p>
   <p>💻 Dísponivel para trabalho Remoto/Hibrido região de BH</p>
   <p>📚 Estudando SOLID e POO para melhorar a qualidade do meu código</p>
+  <p>📚 Explorando aplicações de inteligência artificial</p>
   <p>📚 Estudando para o ENEM com o foco em Ciência da Computação - 2025 UFMG</p>
   <p>🎮 Meus hobbies são jogos online, desenhos digitais e correr ao ar livre</p>
   
-  <p>⏱<i> Última atualização: 01/07/2024</i></p>
+  <p>⏱<i> Última atualização: 06/08/2024</i></p>
 </div>
 
 
