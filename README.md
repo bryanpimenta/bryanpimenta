@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AC3DC&background=23FF3A00&width=435&lines=Bem-vindo+ao+meu+reposit%C3%B3rio+GitHub!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&pause=1000&color=7185F6&background=23FF3A00&width=435&lines=Bem-vindo+ao+meu+reposit%C3%B3rio+GitHub!" alt="Typing SVG" /></a>
 
 ##
 <div style="display: flex; flex-direction: column; flex-wrap: wrap;">
@@ -17,8 +17,8 @@
 
 ##
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryanpimenta&show_icons=true&locale=en&theme=calm_pink&bg_color=45,a52502,1c8394&text_color=d0c9b1&title_color=d0c9b1&border_color=d0c9b1"alt="bryanpimenta"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanpimenta&show_icons=true&locale=en&layout=compact&theme=calm_pink&bg_color=45,a52502,1c8394&text_color=d0c9b1&title_color=d0c9b1&border_color=d0c9b1" alt="bryanpimenta"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryanpimenta&show_icons=true&locale=en&theme=calm_pink&bg_color=45,161a30,31304d&text_color=b6bbc4&title_color=f0ece5&border_color=f0ece5&icon_color=f0ece5"alt="bryanpimenta"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanpimenta&show_icons=true&locale=en&layout=compact&theme=calm_pink&bg_color=45,161a30,31304d&text_color=b6bbc4&title_color=f0ece5&border_color=f0ece5&icon_color=f0ece5" alt="bryanpimenta"/>
 
 </div>
 
