@@ -4,9 +4,8 @@
 <div style="display: flex; flex-direction: column; flex-wrap: wrap;">
   <h3 align="left">De introdução, no momento estou</h3>
   
-  <p>💻 Focando em Desenvolvido Web, Low Code e Softwares de BPM e ECM</p>
+  <p>💻 Focando em Desenvolvido Web Full Stack, Low Code e Softwares de BPM e ECM</p>
   <p>📚 Explorando aplicações de inteligência artificial</p>
-  <p>📚 Estudando para o ENEM com o foco em Ciência da Computação - 2026 UFMG</p>
   <p>🎮 Meus hobbies são jogos online, desenhos digitais e correr ao ar livre</p>
   
   <p>⏱<i> Última atualização: 23/09/2024</i></p>
